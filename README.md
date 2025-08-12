@@ -8,7 +8,7 @@
 
 ## ⚙️ Fonctionnalités
 
-- **Suivi en temps réel** : Permet de suivre la position d'un objet ou d'un individu en utilisant des capteurs compatibles Arduino.
+- **Suivi en temps réel** : Permet de suivre la position d'un objet ou d'un individu en utilisant des capteurs compatibles ESP32.
 - **Affichage des données** : Affiche les coordonnées ou les informations pertinentes sur un écran ou via le moniteur série.
 - **Compatibilité** : Conçu pour être utilisé avec des cartes Arduino standard.
 ---
