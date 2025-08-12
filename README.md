@@ -28,3 +28,7 @@
 - Sélectionne le port approprié sous Outils > Port.
 4. **Téléverser le code :**
 - Clique sur le bouton Téléverser dans l'IDE Arduino pour transférer le code vers ta carte.
+---
+## Contact
+
+Pour toute question, tu peux me contacter via mon profil linkedin (www.linkedin.com/in/halima-el-hagouchi-61a21a213).
